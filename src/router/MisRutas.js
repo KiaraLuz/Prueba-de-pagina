@@ -9,7 +9,6 @@ import { Error } from "../components/Error"
 import { HeaderNav } from '../components/layout/HeaderNav';
 import { Footer } from '../components/layout/Footer';
 import { Proyecto } from '../components/Proyecto';
-import { ListadoTrabajos } from '../components/ListadoTrabajos';
 import { Mascarillas } from '../components/productos/Mascarillas';
 import { Buzos } from '../components/productos/Buzos';
 import { Poleras } from '../components/productos/Poleras';
