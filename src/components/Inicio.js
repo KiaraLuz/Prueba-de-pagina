@@ -7,12 +7,11 @@ export const Inicio = () => {
     <div className="home">
 
       <h1>
-        Hola, soy <strong>Carmen Pérez Quispe</strong> y soy costurera en Perú
-        , vendo <strong>mascarillas, buzos y poleras</strong> con diseños personalizados.
+        Vendo <strong>mascarillas, buzos y poleras</strong> con diseños personalizados
       </h1>
 
       <h2 className="title">
-        Te confecciono una prenda de vestir a tu gusto.
+        Confecciono prendas de vestir a tu gusto.
         <br />
         <Link to="/contacto">Contacta conmigo.</Link>
       </h2>
