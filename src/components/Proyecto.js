@@ -20,7 +20,7 @@ export const Proyecto = () => {
       <p>{proyecto.descripcion}</p>
       <p><strong>Tallas: </strong>{proyecto.tallas}</p>
       <p><strong>Colores: </strong> {proyecto.colores}</p>
-      <a href={"https://www.facebook.com/carmen.perezquispe.39/photos_by"} target="_blank" rel="noopener noreferrer">Ver más fotos</a>
+      <a href={"https://www.facebook.com/carmen.perezquispe.39/photos_by"} target="_blank" rel="noopener noreferrer">Ver más fotos en Facebook</a>
     </div>
   )
 }
