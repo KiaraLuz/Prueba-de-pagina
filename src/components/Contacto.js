@@ -34,7 +34,7 @@ export const Contacto = () => {
         <input type="text" placeholder="Nombres" name="Nombres" required/>
         <input type="text" placeholder="Apellidos" name="Apellidos" required/>
         <input type="text" placeholder="Email" name="Email"  required/>
-        <textarea placeholder="Motivo de contacto" required/>
+        <textarea placeholder="Motivo de contacto" name="Motivo" required/>
         <input type="Submit" value="Enviar"/>
       </form>
     </div>
