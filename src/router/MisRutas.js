@@ -48,7 +48,6 @@ export const MisRutas = () => {
             <Route path="mousepad" element={<Mousepad />}/>
           </Route>
 
-
           <Route path="/servicios" element={<Servicios />}/>
           <Route path="/curriculum" element={<Curriculum />}/>
           <Route path="/contacto" element={<Contacto />}/>
